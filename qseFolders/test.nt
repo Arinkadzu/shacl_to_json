@@ -1,0 +1,3 @@
+<http://example.org/anna> <http://example.org/hasName> "Anna" .
+<http://example.org/anna> <http://example.org/hasAge> "25"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://example.org/bob> <http://example.org/hasName> "Bob" .

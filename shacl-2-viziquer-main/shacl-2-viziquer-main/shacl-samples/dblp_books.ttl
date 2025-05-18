@@ -1,0 +1,500 @@
+<https://dblp.org/rec/books/infix/Ley93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/books/infix/Ley93> <https://dblp.org/rdf/schema#title> "Ein Datenbankkern zur Speicherung variabel strukturierter Feature-Terme. Implementierungstechniken." .
+<https://dblp.org/rec/books/infix/Ley93> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/1> .
+<https://dblp.org/pid/00/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/1> <https://dblp.org/rdf/schema#primaryCreatorName> "Michael Ley" .
+<https://dblp.org/rec/phd/ethos/Kirlappos16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/ethos/Kirlappos16> <https://dblp.org/rdf/schema#title> "Learning from \"shadow security\": understanding non-compliant behaviours to improve information security management." .
+<https://dblp.org/rec/phd/ethos/Kirlappos16> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10020> .
+<https://dblp.org/pid/00/10020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10020> <https://dblp.org/rdf/schema#primaryCreatorName> "Iacovos Kirlappos" .
+<https://dblp.org/rec/phd/ethos/Worrall15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/ethos/Worrall15> <https://dblp.org/rdf/schema#title> "Modelling the demand for long-term care to optimise local level planning." .
+<https://dblp.org/rec/phd/ethos/Worrall15> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10040> .
+<https://dblp.org/pid/00/10040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10040> <https://dblp.org/rdf/schema#primaryCreatorName> "Philip Worrall" .
+<https://dblp.org/rec/phd/it/Galletta14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/it/Galletta14> <https://dblp.org/rdf/schema#title> "Adaptivity: Linguistic Mechanisms and Static Analysis Techniques." .
+<https://dblp.org/rec/phd/it/Galletta14> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10043> .
+<https://dblp.org/pid/00/10043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10043> <https://dblp.org/rdf/schema#primaryCreatorName> "Letterio Galletta" .
+<https://dblp.org/rec/phd/hu/Tamas13a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/hu/Tamas13a> <https://dblp.org/rdf/schema#title> "Privátszféra védő protokollok vezeték nélküli hálózatokban" .
+<https://dblp.org/rec/phd/hu/Tamas13a> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/1005> .
+<https://dblp.org/pid/00/1005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/1005> <https://dblp.org/rdf/schema#primaryCreatorName> "Tamás Holczer" .
+<https://dblp.org/rec/phd/us/Hsu18a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/us/Hsu18a> <https://dblp.org/rdf/schema#title> "Designing Interactive Systems for Community Citizen Science." .
+<https://dblp.org/rec/phd/us/Hsu18a> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10066> .
+<https://dblp.org/pid/00/10066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10066> <https://dblp.org/rdf/schema#primaryCreatorName> "Yen-Chia Hsu" .
+<https://dblp.org/rec/phd/us/Huang15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/us/Huang15> <https://dblp.org/rdf/schema#title> "Bayesian Computation and Optimal Decision Making in Primate Brains." .
+<https://dblp.org/rec/phd/us/Huang15> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10104> .
+<https://dblp.org/pid/00/10104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10104> <https://dblp.org/rdf/schema#primaryCreatorName> "Yanping Huang" .
+<https://dblp.org/rec/phd/au/Borzeshi14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/au/Borzeshi14> <https://dblp.org/rdf/schema#title> "Action recognition by graph embedding and temporal classifiers" .
+<https://dblp.org/rec/phd/au/Borzeshi14> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10106> .
+<https://dblp.org/pid/00/10106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10106> <https://dblp.org/rdf/schema#primaryCreatorName> "Ehsan Zare Borzeshi" .
+<https://dblp.org/rec/phd/hal/Baccouche95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/hal/Baccouche95> <https://dblp.org/rdf/schema#title> "Un mécanisme d'ordonnancement distribué de tâches temps réel." .
+<https://dblp.org/rec/phd/hal/Baccouche95> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10124> .
+<https://dblp.org/pid/00/10124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10124> <https://dblp.org/rdf/schema#primaryCreatorName> "Leïla Baccouche" .
+<https://dblp.org/rec/phd/basesearch/Opel20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/basesearch/Opel20> <https://dblp.org/rdf/schema#title> "Entwicklung eines arbeitsprozessorientierten Kompetenzstrukturmodells für die Ausbildung zum Fachinformatiker bzw. zur Fachinformatikerin (Development of a work process-oriented competence structure model for the profession of IT specialists)" .
+<https://dblp.org/rec/phd/basesearch/Opel20> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10141> .
+<https://dblp.org/pid/00/10141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10141> <https://dblp.org/rdf/schema#primaryCreatorName> "Simone Opel" .
+<https://dblp.org/rec/phd/jp/Arbi18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/jp/Arbi18> <https://dblp.org/rdf/schema#title> "Bilingual Lexicon Induction Framwork for Closely Related Languages." .
+<https://dblp.org/rec/phd/jp/Arbi18> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10156> .
+<https://dblp.org/pid/00/10156> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10156> <https://dblp.org/rdf/schema#primaryCreatorName> "Arbi Haza Nasution" .
+<https://dblp.org/rec/phd/us/Malik10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/us/Malik10> <https://dblp.org/rdf/schema#title> "An Activity-Based Framework for Automated Placement and Configuration of Multiple Stereo Cameras" .
+<https://dblp.org/rec/phd/us/Malik10> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/1022> .
+<https://dblp.org/pid/00/1022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/1022> <https://dblp.org/rdf/schema#primaryCreatorName> "Rahul Malik" .
+<https://dblp.org/rec/phd/hal/Bosilj16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/hal/Bosilj16> <https://dblp.org/rdf/schema#title> "Indexation et recherche d'images par arbres des coupes. (Image indexing and retrieval using component trees)." .
+<https://dblp.org/rec/phd/hal/Bosilj16> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10231> .
+<https://dblp.org/pid/00/10231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10231> <https://dblp.org/rdf/schema#primaryCreatorName> "Petra Bosilj" .
+<https://dblp.org/rec/phd/ethos/Fraz13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/ethos/Fraz13> <https://dblp.org/rdf/schema#title> "Retinal image segmentation and quantification of vessel width in non-standard retinal datasets." .
+<https://dblp.org/rec/phd/ethos/Fraz13> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10237> .
+<https://dblp.org/pid/00/10237> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10237> <https://dblp.org/rdf/schema#primaryCreatorName> "Muhammad Moazam Fraz" .
+<https://dblp.org/rec/phd/basesearch/Aittomaki17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/basesearch/Aittomaki17> <https://dblp.org/rdf/schema#title> "Transmitter and Receiver Optimization for Agile MIMO Radars ; Lähettimien ja vastaanottimien optimointi ketterissä MIMO-tutkissa." .
+<https://dblp.org/rec/phd/basesearch/Aittomaki17> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10257> .
+<https://dblp.org/pid/00/10257> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10257> <https://dblp.org/rdf/schema#primaryCreatorName> "Tuomas Aittomäki" .
+<https://dblp.org/rec/phd/es/Nogueras12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/es/Nogueras12> <https://dblp.org/rdf/schema#title> "An Online writer recognition system based on in-air and on-surface trajectories." .
+<https://dblp.org/rec/phd/es/Nogueras12> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10269> .
+<https://dblp.org/pid/00/10269> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10269> <https://dblp.org/rdf/schema#primaryCreatorName> "Enric Sesa-Nogueras" .
+<https://dblp.org/rec/phd/basesearch/Chen11c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/basesearch/Chen11c> <https://dblp.org/rdf/schema#title> "Reliable GPS Integer Ambiguity Resolution." .
+<https://dblp.org/rec/phd/basesearch/Chen11c> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10317> .
+<https://dblp.org/pid/00/10317> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10317> <https://dblp.org/rdf/schema#primaryCreatorName> "Anning Chen" .
+<https://dblp.org/rec/phd/ethos/MoazamiGoudarzi99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/ethos/MoazamiGoudarzi99> <https://dblp.org/rdf/schema#title> "Consistency preserving dynamic reconfiguration of distributed systems." .
+<https://dblp.org/rec/phd/ethos/MoazamiGoudarzi99> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10327> .
+<https://dblp.org/pid/00/10327> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10327> <https://dblp.org/rdf/schema#primaryCreatorName> "Kaveh M. Moazami-Goudarzi" .
+<https://dblp.org/rec/phd/hal/Kriegel13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/hal/Kriegel13> <https://dblp.org/rdf/schema#title> "Caractérisation de la performance temporelle et de la consommation électrique de systèmes embarqués basés sur des plates-formes multiprocesseurs/coeurs et mettant en oeuvre du logiciel temps réel : FORECAST : perFORmance and Energy Consumption AnalysiS Tool. (Performance and power consumption characterisation of embedded systems for multiprocessor/multicore platforms supporting real time software. : FORECAST : perFORmance and Energy Consumption AnalysiS Tool)." .
+<https://dblp.org/rec/phd/hal/Kriegel13> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10340> .
+<https://dblp.org/pid/00/10340> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10340> <https://dblp.org/rdf/schema#primaryCreatorName> "Joffrey Kriegel" .
+<https://dblp.org/rec/phd/tr/Karakus18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/tr/Karakus18> <https://dblp.org/rdf/schema#title> "A framework for economic analysis of network architectures (Ağ mimarilerinin ekonomik analizi için çerçeve)" .
+<https://dblp.org/rec/phd/tr/Karakus18> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10377-1> .
+<https://dblp.org/pid/00/10377-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10377-1> <https://dblp.org/rdf/schema#primaryCreatorName> "Murat Karakus" .
+<https://dblp.org/rec/phd/ethos/CalvilloGamez09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/ethos/CalvilloGamez09> <https://dblp.org/rdf/schema#title> "On the core elements of the experience of playing video games." .
+<https://dblp.org/rec/phd/ethos/CalvilloGamez09> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/1039> .
+<https://dblp.org/pid/00/1039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/1039> <https://dblp.org/rdf/schema#primaryCreatorName> "Eduardo H. Calvillo Gámez" .
+<https://dblp.org/rec/phd/ethos/Guix14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/ethos/Guix14> <https://dblp.org/rdf/schema#title> "Interactive video-realistic character animation from 4D performance capture." .
+<https://dblp.org/rec/phd/ethos/Guix14> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10396> .
+<https://dblp.org/pid/00/10396> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10396> <https://dblp.org/rdf/schema#primaryCreatorName> "Dan Casas" .
+<https://dblp.org/rec/phd/hk/Lee09b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/hk/Lee09b> <https://dblp.org/rdf/schema#title> "Mesh denoising and feature extraction from point cloud data" .
+<https://dblp.org/rec/phd/hk/Lee09b> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10445> .
+<https://dblp.org/pid/00/10445> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10445> <https://dblp.org/rdf/schema#primaryCreatorName> "Kai-Wah Lee" .
+<https://dblp.org/rec/phd/dnb/Albers15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/dnb/Albers15> <https://dblp.org/rdf/schema#title> "Functional Implications of Synaptic Spike Timing Dependent Plasticity and Anti-Hebbian Membrane Potential Dependent Plasticity." .
+<https://dblp.org/rec/phd/dnb/Albers15> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10453> .
+<https://dblp.org/pid/00/10453> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10453> <https://dblp.org/rdf/schema#primaryCreatorName> "Christian Albers" .
+<https://dblp.org/rec/phd/ch/Zumstein2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/ch/Zumstein2009> <https://dblp.org/rdf/schema#title> "Extremal colorings and extremal satisfiability." .
+<https://dblp.org/rec/phd/ch/Zumstein2009> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/1047> .
+<https://dblp.org/pid/00/1047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/1047> <https://dblp.org/rdf/schema#primaryCreatorName> "Philipp Zumstein" .
+<https://dblp.org/rec/phd/ethos/Liu08a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/ethos/Liu08a> <https://dblp.org/rdf/schema#title> "Objective assessment of speech intelligibility." .
+<https://dblp.org/rec/phd/ethos/Liu08a> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/105-2> .
+<https://dblp.org/pid/00/105-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/105-2> <https://dblp.org/rdf/schema#primaryCreatorName> "Wei Ming Liu" .
+<https://dblp.org/rec/phd/ethos/Marref09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/ethos/Marref09> <https://dblp.org/rdf/schema#title> "Predicated Worst Case Execution Time Analysis." .
+<https://dblp.org/rec/phd/ethos/Marref09> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/1053> .
+<https://dblp.org/pid/00/1053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/1053> <https://dblp.org/rdf/schema#primaryCreatorName> "Amine Marref" .
+<https://dblp.org/rec/phd/ndltd/Silva14e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/ndltd/Silva14e> <https://dblp.org/rdf/schema#title> "Visualização de níveis intensional e extensional de ontologias." .
+<https://dblp.org/rec/phd/ndltd/Silva14e> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10536> .
+<https://dblp.org/pid/00/10536> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10536> <https://dblp.org/rdf/schema#primaryCreatorName> "Isabel Cristina Siqueira da Silva" .
+<https://dblp.org/rec/phd/it/Pedoia13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/it/Pedoia13> <https://dblp.org/rdf/schema#title> "Functional and structural MRI image analysis for brain glial tumors treatment." .
+<https://dblp.org/rec/phd/it/Pedoia13> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10537> .
+<https://dblp.org/pid/00/10537> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10537> <https://dblp.org/rdf/schema#primaryCreatorName> "Valentina Pedoia" .
+<https://dblp.org/rec/phd/ethos/Styles04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/ethos/Styles04> <https://dblp.org/rdf/schema#title> "Compilation and modelling of reconfigurable dataflow systems." .
+<https://dblp.org/rec/phd/ethos/Styles04> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/1054> .
+<https://dblp.org/pid/00/1054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/1054> <https://dblp.org/rdf/schema#primaryCreatorName> "Henry Styles" .
+<https://dblp.org/rec/phd/us/Lynch20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/us/Lynch20> <https://dblp.org/rdf/schema#title> "A framework for proving the computational intractability of motion planning problems" .
+<https://dblp.org/rec/phd/us/Lynch20> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10553> .
+<https://dblp.org/pid/00/10553> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10553> <https://dblp.org/rdf/schema#primaryCreatorName> "Jayson Lynch" .
+<https://dblp.org/rec/phd/ethos/Scholl15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/ethos/Scholl15> <https://dblp.org/rdf/schema#title> "Design and implementation of secure multi-party computation." .
+<https://dblp.org/rec/phd/ethos/Scholl15> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10576> .
+<https://dblp.org/pid/00/10576> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10576> <https://dblp.org/rdf/schema#primaryCreatorName> "Peter Scholl" .
+<https://dblp.org/rec/phd/hal/Luo13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/hal/Luo13> <https://dblp.org/rdf/schema#title> "Indoor radio propagation modeling for system performance prediction." .
+<https://dblp.org/rec/phd/hal/Luo13> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10611> .
+<https://dblp.org/pid/00/10611> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10611> <https://dblp.org/rdf/schema#primaryCreatorName> "Meiling Luo" .
+<https://dblp.org/rec/phd/basesearch/Jangsher15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/basesearch/Jangsher15> <https://dblp.org/rdf/schema#title> "Resource allocation in moving small cell network." .
+<https://dblp.org/rec/phd/basesearch/Jangsher15> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10615> .
+<https://dblp.org/pid/00/10615> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10615> <https://dblp.org/rdf/schema#primaryCreatorName> "Sobia Jangsher" .
+<https://dblp.org/rec/phd/basesearch/Guo25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/basesearch/Guo25> <https://dblp.org/rdf/schema#title> "Study of Robust GNSS-based Positioning Solutions for Challenging Environments." .
+<https://dblp.org/rec/phd/basesearch/Guo25> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10645> .
+<https://dblp.org/pid/00/10645> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10645> <https://dblp.org/rdf/schema#primaryCreatorName> "Yihan Guo" .
+<https://dblp.org/rec/phd/it/Zabian06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/it/Zabian06> <https://dblp.org/rdf/schema#title> "Interval web caching." .
+<https://dblp.org/rec/phd/it/Zabian06> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10676> .
+<https://dblp.org/pid/00/10676> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10676> <https://dblp.org/rdf/schema#primaryCreatorName> "Arwa Zabian" .
+<https://dblp.org/rec/phd/basesearch/Prabhu15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/basesearch/Prabhu15> <https://dblp.org/rdf/schema#title> "Techniques for Enhancing Test and Diagnosis of Digital Circuits." .
+<https://dblp.org/rec/phd/basesearch/Prabhu15> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10696> .
+<https://dblp.org/pid/00/10696> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10696> <https://dblp.org/rdf/schema#primaryCreatorName> "Sarvesh Prabhu" .
+<https://dblp.org/rec/phd/ndltd/Pinto05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/ndltd/Pinto05> <https://dblp.org/rdf/schema#title> "3D Shape analysis using 1D, 2D and 3D wavelets." .
+<https://dblp.org/rec/phd/ndltd/Pinto05> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10698> .
+<https://dblp.org/pid/00/10698> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10698> <https://dblp.org/rdf/schema#primaryCreatorName> "Sílvia Cristina Dias Pinto" .
+<https://dblp.org/rec/phd/it/Brun12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/it/Brun12> <https://dblp.org/rdf/schema#title> "Development of algorithms and methods for three-dimensional image analysis and biomedical applications." .
+<https://dblp.org/rec/phd/it/Brun12> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10699> .
+<https://dblp.org/pid/00/10699> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10699> <https://dblp.org/rdf/schema#primaryCreatorName> "Francesco Brun" .
+<https://dblp.org/rec/phd/hal/Damak14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/hal/Damak14> <https://dblp.org/rdf/schema#title> "Étude des facteurs de pertinence dans la recherche de microblogs. (Study of salient factors for microblog search)." .
+<https://dblp.org/rec/phd/hal/Damak14> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10716> .
+<https://dblp.org/pid/00/10716> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10716> <https://dblp.org/rdf/schema#primaryCreatorName> "Firas Damak" .
+<https://dblp.org/rec/phd/de/Boppu15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/de/Boppu15> <https://dblp.org/rdf/schema#title> "Code Generation for Tightly Coupled Processor Arrays." .
+<https://dblp.org/rec/phd/de/Boppu15> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10774> .
+<https://dblp.org/pid/00/10774> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10774> <https://dblp.org/rdf/schema#primaryCreatorName> "Srinivas Boppu" .
+<https://dblp.org/rec/phd/basesearch/Chiumento15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/basesearch/Chiumento15> <https://dblp.org/rdf/schema#title> "Dynamic Resource Allocation and Self-Organizing Signalling Optimisation in LTE-A Downlink ; Dynamische toewijzing van transmissieconfiguraties en zelforganiserende feedback optimalisatie in LTE-A." .
+<https://dblp.org/rec/phd/basesearch/Chiumento15> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10806> .
+<https://dblp.org/pid/00/10806> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10806> <https://dblp.org/rdf/schema#primaryCreatorName> "Alessandro Chiumento" .
+<https://dblp.org/rec/phd/hal/Dhamal16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/hal/Dhamal16> <https://dblp.org/rdf/schema#title> "New Models and Methods for Formation and Analysis of Social Networks. (Nouveaux modèles et méthodes de formation et d'analyse des réseaux sociaux)." .
+<https://dblp.org/rec/phd/hal/Dhamal16> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10825> .
+<https://dblp.org/pid/00/10825> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10825> <https://dblp.org/rdf/schema#primaryCreatorName> "Swapnil Dhamal" .
+<https://dblp.org/rec/series/lncs/Haan19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/series/lncs/Haan19> <https://dblp.org/rdf/schema#title> "Parameterized Complexity in the Polynomial Hierarchy - Extending Parameterized Complexity Theory to Higher Levels of the Hierarchy" .
+<https://dblp.org/rec/series/lncs/Haan19> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10827> .
+<https://dblp.org/pid/00/10827> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10827> <https://dblp.org/rdf/schema#primaryCreatorName> "Ronald de Haan" .
+<https://dblp.org/rec/phd/basesearch/Gamage15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/basesearch/Gamage15> <https://dblp.org/rdf/schema#title> "Resource allocation for heterogeneous wireless networks." .
+<https://dblp.org/rec/phd/basesearch/Gamage15> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10836> .
+<https://dblp.org/pid/00/10836> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10836> <https://dblp.org/rdf/schema#primaryCreatorName> "Amila P. K. Tharaperiya Gamage" .
+<https://dblp.org/rec/series/sci/2012-397> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/series/sci/2012-397> <https://dblp.org/rdf/schema#title> "Programming with Multiple Precision" .
+<https://dblp.org/rec/series/sci/2012-397> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10837> .
+<https://dblp.org/pid/00/10837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10837> <https://dblp.org/rdf/schema#primaryCreatorName> "Oleksandr N. Khimich" .
+<https://dblp.org/rec/phd/ch/Schmidt08> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/ch/Schmidt08> <https://dblp.org/rdf/schema#title> "Sharing of probabilistically correlated data in peer-to-peer networks." .
+<https://dblp.org/rec/phd/ch/Schmidt08> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/1084> .
+<https://dblp.org/pid/00/1084> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/1084> <https://dblp.org/rdf/schema#primaryCreatorName> "Roman Schmidt" .
+<https://dblp.org/rec/phd/hal/Hmedeh13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/hal/Hmedeh13> <https://dblp.org/rdf/schema#title> "Indexation pour la recherche par le contenu textuel de flux RSS. (Indexing by content in RSS systems.)." .
+<https://dblp.org/rec/phd/hal/Hmedeh13> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10847> .
+<https://dblp.org/pid/00/10847> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10847> <https://dblp.org/rdf/schema#primaryCreatorName> "Zeinab Hmedeh" .
+<https://dblp.org/rec/phd/us/BlancaPimentel16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/us/BlancaPimentel16> <https://dblp.org/rdf/schema#title> "Random-cluster Dynamics" .
+<https://dblp.org/rec/phd/us/BlancaPimentel16> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10871> .
+<https://dblp.org/pid/00/10871> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10871> <https://dblp.org/rdf/schema#primaryCreatorName> "Antonio Blanca" .
+<https://dblp.org/rec/phd/dnb/Schend16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/dnb/Schend16> <https://dblp.org/rdf/schema#title> "From Election Fraud to Finding the Dream Team: A Study of the Computational Complexity in Voting Problems and Stability in Hedonic Games." .
+<https://dblp.org/rec/phd/dnb/Schend16> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10877> .
+<https://dblp.org/pid/00/10877> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10877> <https://dblp.org/rdf/schema#primaryCreatorName> "Lena Schend" .
+<https://dblp.org/rec/series/synthesis/2015Bloem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/series/synthesis/2015Bloem> <https://dblp.org/rdf/schema#title> "Decidability of Parameterized Verification" .
+<https://dblp.org/rec/series/synthesis/2015Bloem> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/1088> .
+<https://dblp.org/pid/00/1088> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/1088> <https://dblp.org/rdf/schema#primaryCreatorName> "Igor Konnov" .
+<https://dblp.org/rec/phd/basesearch/Westman11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/basesearch/Westman11> <https://dblp.org/rdf/schema#title> "Journalistic image access : description, categorization and searching." .
+<https://dblp.org/rec/phd/basesearch/Westman11> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/1089> .
+<https://dblp.org/pid/00/1089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/1089> <https://dblp.org/rdf/schema#primaryCreatorName> "Stina Westman" .
+<https://dblp.org/rec/phd/ethos/Hielkema10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/ethos/Hielkema10> <https://dblp.org/rdf/schema#title> "Using natural language generation to provide access to semantic metadata." .
+<https://dblp.org/rec/phd/ethos/Hielkema10> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10906> .
+<https://dblp.org/pid/00/10906> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10906> <https://dblp.org/rdf/schema#primaryCreatorName> "Feikje Hielkema" .
+<https://dblp.org/rec/phd/dnb/Kruse98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/dnb/Kruse98> <https://dblp.org/rdf/schema#title> "Gesundheitssport für Kinder - Entwicklung und Darstellung eines praktisch-orientierten Computerprogramms für den Schulsport auf der Grundlage theoretisch-konzeptioneller Ansätze." .
+<https://dblp.org/rec/phd/dnb/Kruse98> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10944-1> .
+<https://dblp.org/pid/00/10944-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10944-1> <https://dblp.org/rdf/schema#primaryCreatorName> "Jens Kruse" .
+<https://dblp.org/rec/phd/dnb/Kruse85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/dnb/Kruse85> <https://dblp.org/rdf/schema#title> "Universelle syntaxgesteuerte Erzeugung hierarchisch strukturierter Daten." .
+<https://dblp.org/rec/phd/dnb/Kruse85> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10944-2> .
+<https://dblp.org/pid/00/10944-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10944-2> <https://dblp.org/rdf/schema#primaryCreatorName> "Jens Kruse" .
+<https://dblp.org/rec/phd/basesearch/Najafi21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/basesearch/Najafi21> <https://dblp.org/rdf/schema#title> "High-Performance Approximate On-Chip Communication" .
+<https://dblp.org/rec/phd/basesearch/Najafi21> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10958-1> .
+<https://dblp.org/pid/00/10958-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10958-1> <https://dblp.org/rdf/schema#primaryCreatorName> "Amir Najafi" .
+<https://dblp.org/rec/phd/dnb/Bosch87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/dnb/Bosch87> <https://dblp.org/rdf/schema#title> "Bildschirmtext im Ackerbaubetrieb: Nutzen, Bewertung, Vorschläge." .
+<https://dblp.org/rec/phd/dnb/Bosch87> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/10984> .
+<https://dblp.org/pid/00/10984> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/10984> <https://dblp.org/rdf/schema#primaryCreatorName> "Josef Bosch" .
+<https://dblp.org/rec/books/hal/Anciaux14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/books/hal/Anciaux14> <https://dblp.org/rdf/schema#title> "Gestion de données personnelles respectueuse de la vie privée." .
+<https://dblp.org/rec/books/hal/Anciaux14> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/1107> .
+<https://dblp.org/pid/00/1107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/1107> <https://dblp.org/rdf/schema#primaryCreatorName> "Nicolas Anciaux" .
+<https://dblp.org/rec/phd/hal/Anciaux04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/hal/Anciaux04> <https://dblp.org/rdf/schema#title> "Systèmes de gestion de base de données embarqués dans une puce électronique(Database Systems on Chip)." .
+<https://dblp.org/rec/phd/hal/Anciaux04> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/1107> .
+<https://dblp.org/pid/00/1107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/1107> <https://dblp.org/rdf/schema#primaryCreatorName> "Nicolas Anciaux" .
+<https://dblp.org/rec/phd/basesearch/Khaokaew24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/basesearch/Khaokaew24> <https://dblp.org/rdf/schema#title> "Understanding Mobile Information Needs and Behaviours." .
+<https://dblp.org/rec/phd/basesearch/Khaokaew24> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11072> .
+<https://dblp.org/pid/00/11072> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11072> <https://dblp.org/rdf/schema#primaryCreatorName> "Yonchanok Khaokaew" .
+<https://dblp.org/rec/phd/basesearch/Piroso12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/basesearch/Piroso12> <https://dblp.org/rdf/schema#title> "Wireless Ad-Hoc Networks: from Sensing to Socializing." .
+<https://dblp.org/rec/phd/basesearch/Piroso12> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11086> .
+<https://dblp.org/pid/00/11086> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11086> <https://dblp.org/rdf/schema#primaryCreatorName> "Natascia Piroso" .
+<https://dblp.org/rec/phd/basesearch/Milushev13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/basesearch/Milushev13> <https://dblp.org/rdf/schema#title> "Reasoning about Hyperproperties (Redeneren over hyperproperties) ; Reasoning about Hyperproperties." .
+<https://dblp.org/rec/phd/basesearch/Milushev13> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11110> .
+<https://dblp.org/pid/00/11110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11110> <https://dblp.org/rdf/schema#primaryCreatorName> "Dimiter Milushev" .
+<https://dblp.org/rec/phd/jp/Trung-Nghia18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/jp/Trung-Nghia18> <https://dblp.org/rdf/schema#title> "Video Salient Object Segmentation Utilizing Deep Features in Spatial and Temporal Domains." .
+<https://dblp.org/rec/phd/jp/Trung-Nghia18> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11111> .
+<https://dblp.org/pid/00/11111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11111> <https://dblp.org/rdf/schema#primaryCreatorName> "Trung-Nghia Le" .
+<https://dblp.org/rec/phd/tr/Peker17a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/tr/Peker17a> <https://dblp.org/rdf/schema#title> "Modeling and predicting customer purchase behavior in the grocery retail industry (Perakende sektöründe müşteri satın alma davranışının modellenmesi ve tahmin edilmesi)" .
+<https://dblp.org/rec/phd/tr/Peker17a> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11148> .
+<https://dblp.org/pid/00/11148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11148> <https://dblp.org/rdf/schema#primaryCreatorName> "Serhat Peker" .
+<https://dblp.org/rec/phd/basesearch/Hossain05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/basesearch/Hossain05> <https://dblp.org/rdf/schema#title> "Handoff and resource management in next generation wireless cellular networks: a feedback control approach." .
+<https://dblp.org/rec/phd/basesearch/Hossain05> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/1115> .
+<https://dblp.org/pid/00/1115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/1115> <https://dblp.org/rdf/schema#primaryCreatorName> "Monir Hossain" .
+<https://dblp.org/rec/series/txtcs/BadouelBD15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/series/txtcs/BadouelBD15> <https://dblp.org/rdf/schema#title> "Petri Net Synthesis" .
+<https://dblp.org/rec/series/txtcs/BadouelBD15> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/1116> .
+<https://dblp.org/pid/00/1116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/1116> <https://dblp.org/rdf/schema#primaryCreatorName> "Philippe Darondeau" .
+<https://dblp.org/rec/phd/de/Beck2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/de/Beck2010> <https://dblp.org/rdf/schema#title> "A neural model of motion and form processing." .
+<https://dblp.org/rec/phd/de/Beck2010> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11161> .
+<https://dblp.org/pid/00/11161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11161> <https://dblp.org/rdf/schema#primaryCreatorName> "Cornelia Maria Beck" .
+<https://dblp.org/rec/phd/de/Reese2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/de/Reese2006> <https://dblp.org/rdf/schema#title> "Vertrauenshaftung und Risikoverteilung bei qualifizierten elektronischen Signaturen." .
+<https://dblp.org/rec/phd/de/Reese2006> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11162> .
+<https://dblp.org/pid/00/11162> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11162> <https://dblp.org/rdf/schema#primaryCreatorName> "Nicole Reese" .
+<https://dblp.org/rec/phd/de/Damm2004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/de/Damm2004> <https://dblp.org/rdf/schema#title> "Total anti-symmetrische Quasigruppen." .
+<https://dblp.org/rec/phd/de/Damm2004> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11163> .
+<https://dblp.org/pid/00/11163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11163> <https://dblp.org/rdf/schema#primaryCreatorName> "Hans Michael Damm" .
+<https://dblp.org/rec/phd/de/Owotoki2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/de/Owotoki2007> <https://dblp.org/rdf/schema#title> "Transparent computational intelligence (CI) models for health states monitoring of complex systems." .
+<https://dblp.org/rec/phd/de/Owotoki2007> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11164> .
+<https://dblp.org/pid/00/11164> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11164> <https://dblp.org/rdf/schema#primaryCreatorName> "Peter Olatunde Owotoki" .
+<https://dblp.org/rec/phd/de/Fischer2006a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/de/Fischer2006a> <https://dblp.org/rdf/schema#title> "Unternehmenskommunikation und neue Medien: das neue Medium Weblogs und seine Bedeutung für die Public-Relations-Arbeit." .
+<https://dblp.org/rec/phd/de/Fischer2006a> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11165> .
+<https://dblp.org/pid/00/11165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11165> <https://dblp.org/rdf/schema#primaryCreatorName> "Tim E. Fischer" .
+<https://dblp.org/rec/phd/de/Fibikova2003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/de/Fibikova2003> <https://dblp.org/rdf/schema#title> "Provable secure scalable block ciphers." .
+<https://dblp.org/rec/phd/de/Fibikova2003> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11166> .
+<https://dblp.org/pid/00/11166> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11166> <https://dblp.org/rdf/schema#primaryCreatorName> "Lenka Fibíková" .
+<https://dblp.org/rec/phd/ch/Henseler2004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/ch/Henseler2004> <https://dblp.org/rdf/schema#title> "Die Konfigurations- und Verträglichkeitsmatrix als Beitrag für eine differenzierte Betrachtung von Konfigurationsproblemen." .
+<https://dblp.org/rec/phd/ch/Henseler2004> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11167> .
+<https://dblp.org/pid/00/11167> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11167> <https://dblp.org/rdf/schema#primaryCreatorName> "Patrick Henseler" .
+<https://dblp.org/rec/phd/de/Cerav-Erbas2004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/de/Cerav-Erbas2004> <https://dblp.org/rdf/schema#title> "Traffic engineering in MPLS networks with multiple objectives: modeling and optimization." .
+<https://dblp.org/rec/phd/de/Cerav-Erbas2004> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11168> .
+<https://dblp.org/pid/00/11168> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11168> <https://dblp.org/rdf/schema#primaryCreatorName> "Selin Kardelen Cerav-Erbas" .
+<https://dblp.org/rec/phd/de/Schwaiger2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/de/Schwaiger2008> <https://dblp.org/rdf/schema#title> "Konstruktion und Entwicklung omnidirektionaler Laufplattformen." .
+<https://dblp.org/rec/phd/de/Schwaiger2008> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11169> .
+<https://dblp.org/pid/00/11169> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11169> <https://dblp.org/rdf/schema#primaryCreatorName> "Martin Schwaiger" .
+<https://dblp.org/rec/phd/de/Moro2004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/de/Moro2004> <https://dblp.org/rdf/schema#title> "Modellbasierte Qualitätsbewertung von Softwaresystemen: Bewertung von Softwarearchitekturen in Bezug auf ihren Erfüllungsgrad der Qualitätsanforderungen." .
+<https://dblp.org/rec/phd/de/Moro2004> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11170> .
+<https://dblp.org/pid/00/11170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11170> <https://dblp.org/rdf/schema#primaryCreatorName> "Martin Moro" .
+<https://dblp.org/rec/phd/de/Kopf2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/de/Kopf2006> <https://dblp.org/rdf/schema#title> "Meta-learning: strategies, implementations, and evaluations for algorithm selection." .
+<https://dblp.org/rec/phd/de/Kopf2006> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11171> .
+<https://dblp.org/pid/00/11171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11171> <https://dblp.org/rdf/schema#primaryCreatorName> "Christian Rudolf Köpf" .
+<https://dblp.org/rec/phd/de/Marty2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/de/Marty2006> <https://dblp.org/rdf/schema#title> "Entwicklung einer Produktionsumgebung zur kooperativen Erstellung interaktiver Experimente." .
+<https://dblp.org/rec/phd/de/Marty2006> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11172> .
+<https://dblp.org/pid/00/11172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11172> <https://dblp.org/rdf/schema#primaryCreatorName> "Ulrich Marty" .
+<https://dblp.org/rec/phd/de/Harter2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/de/Harter2007> <https://dblp.org/rdf/schema#title> "Untersuchung der kapazitiven Eigenschaften von 3D-Clusterstrukturen in einer 0,35 μm CMOS-Technologie und deren mögliche kryptografische Anwendungen." .
+<https://dblp.org/rec/phd/de/Harter2007> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11173> .
+<https://dblp.org/pid/00/11173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11173> <https://dblp.org/rdf/schema#primaryCreatorName> "Matthias Harter" .
+<https://dblp.org/rec/phd/de/Baumgartner2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/de/Baumgartner2005> <https://dblp.org/rdf/schema#title> "On active distances for trellis coded modulation." .
+<https://dblp.org/rec/phd/de/Baumgartner2005> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11174> .
+<https://dblp.org/pid/00/11174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11174> <https://dblp.org/rdf/schema#primaryCreatorName> "Bernd Baumgartner" .
+<https://dblp.org/rec/phd/de/Malik2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/de/Malik2006> <https://dblp.org/rdf/schema#title> "Aggregate internet traffic: considerations for the planning of high speed IP networks." .
+<https://dblp.org/rec/phd/de/Malik2006> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11175> .
+<https://dblp.org/pid/00/11175> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11175> <https://dblp.org/rdf/schema#primaryCreatorName> "Sireen Habib Malik" .
+<https://dblp.org/rec/phd/hal/Lioris10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/hal/Lioris10> <https://dblp.org/rdf/schema#title> "Évaluation et optimisation de systèmes de taxis collectifs en simulation. (A methodology for an optimised management of an innovative \"Collective Taxi\" system)." .
+<https://dblp.org/rec/phd/hal/Lioris10> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11207> .
+<https://dblp.org/pid/00/11207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11207> <https://dblp.org/rdf/schema#primaryCreatorName> "Eugénie Lioris" .
+<https://dblp.org/rec/phd/ca/Salay11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/ca/Salay11> <https://dblp.org/rdf/schema#title> "Using Modeler Intent in Software Engineering." .
+<https://dblp.org/rec/phd/ca/Salay11> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/1125> .
+<https://dblp.org/pid/00/1125> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/1125> <https://dblp.org/rdf/schema#primaryCreatorName> "Rick Salay" .
+<https://dblp.org/rec/phd/au/Berglas96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/au/Berglas96> <https://dblp.org/rdf/schema#title> "Non-monotonic reasoning and end user conceptual modeling" .
+<https://dblp.org/rec/phd/au/Berglas96> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/1127> .
+<https://dblp.org/pid/00/1127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/1127> <https://dblp.org/rdf/schema#primaryCreatorName> "Anthony Berglas" .
+<https://dblp.org/rec/phd/hal/Tourniaire13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/hal/Tourniaire13> <https://dblp.org/rdf/schema#title> "Problèmes NP-difficiles : approximation modérément exponentielle et complexité paramétrique. (NP-Hard problems : moderately exponential approximation and parameterized complexity)." .
+<https://dblp.org/rec/phd/hal/Tourniaire13> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11286> .
+<https://dblp.org/pid/00/11286> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11286> <https://dblp.org/rdf/schema#primaryCreatorName> "Emeric Tourniaire" .
+<https://dblp.org/rec/phd/dnb/Ernsting16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/dnb/Ernsting16> <https://dblp.org/rdf/schema#title> "Data parallel algorithmic skeletons with accelerator support." .
+<https://dblp.org/rec/phd/dnb/Ernsting16> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11291> .
+<https://dblp.org/pid/00/11291> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11291> <https://dblp.org/rdf/schema#primaryCreatorName> "Steffen Ernsting" .
+<https://dblp.org/rec/phd/ca/Srivastava17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/ca/Srivastava17> <https://dblp.org/rdf/schema#title> "Deep Learning Models for Unsupervised and Transfer Learning." .
+<https://dblp.org/rec/phd/ca/Srivastava17> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11304> .
+<https://dblp.org/pid/00/11304> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11304> <https://dblp.org/rdf/schema#primaryCreatorName> "Nitish Srivastava" .
+<https://dblp.org/rec/phd/us/Kovacs15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/us/Kovacs15> <https://dblp.org/rdf/schema#title> "Fully electronic method of measuring post-release gap and gradient/residual stress of a MEMS cantilever" .
+<https://dblp.org/rec/phd/us/Kovacs15> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11332> .
+<https://dblp.org/pid/00/11332> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11332> <https://dblp.org/rdf/schema#primaryCreatorName> "Andrew Kovacs" .
+<https://dblp.org/rec/phd/dnb/Muglich91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/dnb/Muglich91> <https://dblp.org/rdf/schema#title> "Die Anwendbarkeit des Sachmängelgewährleistungsrechtes bei der On-Line-Übertragung von Standardsoftware: eine rechtsvergleichende Studie zum US-amerikanischen und deutschen Recht." .
+<https://dblp.org/rec/phd/dnb/Muglich91> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11334> .
+<https://dblp.org/pid/00/11334> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11334> <https://dblp.org/rdf/schema#primaryCreatorName> "Andreas Müglich" .
+<https://dblp.org/rec/phd/ndltd/Asbeck75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/ndltd/Asbeck75> <https://dblp.org/rdf/schema#title> "Optical and minority carrier confinement in lead selenide homojunction lasers." .
+<https://dblp.org/rec/phd/ndltd/Asbeck75> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11336> .
+<https://dblp.org/pid/00/11336> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11336> <https://dblp.org/rdf/schema#primaryCreatorName> "Peter M. Asbeck" .
+<https://dblp.org/rec/phd/ethos/Craig18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/ethos/Craig18> <https://dblp.org/rdf/schema#title> "Application of cybernetics to viable systems architecture for proactive cyber defence." .
+<https://dblp.org/rec/phd/ethos/Craig18> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11339> .
+<https://dblp.org/pid/00/11339> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11339> <https://dblp.org/rdf/schema#primaryCreatorName> "Richard Craig" .
+<https://dblp.org/rec/phd/hal/Rozhnova15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/hal/Rozhnova15> <https://dblp.org/rdf/schema#title> "Congestion control for Content-Centric Networking. (Contrôle de congestion pour les réseaux orientés contenu)." .
+<https://dblp.org/rec/phd/hal/Rozhnova15> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11344> .
+<https://dblp.org/pid/00/11344> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11344> <https://dblp.org/rdf/schema#primaryCreatorName> "Natalya Rozhnova" .
+<https://dblp.org/rec/phd/tr/Hasiloglu98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/tr/Hasiloglu98> <https://dblp.org/rdf/schema#title> "Dalgacık dönüşümü ve yapay sinir ağı kullanarak doku tanıma (Pattern recognition by using wavelet transform and artificial neural network)" .
+<https://dblp.org/rec/phd/tr/Hasiloglu98> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11394> .
+<https://dblp.org/pid/00/11394> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11394> <https://dblp.org/rdf/schema#primaryCreatorName> "A. Samet Hasiloglu" .
+<https://dblp.org/rec/phd/us/Kovacs19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/us/Kovacs19> <https://dblp.org/rdf/schema#title> "HabitLab: in-the-wild behavior change experiments at scale." .
+<https://dblp.org/rec/phd/us/Kovacs19> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11413> .
+<https://dblp.org/pid/00/11413> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11413> <https://dblp.org/rdf/schema#primaryCreatorName> "Geza Kovacs" .
+<https://dblp.org/rec/phd/es/Villalon16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/es/Villalon16> <https://dblp.org/rdf/schema#title> "Ontology Evaluation: a pitfall-based approach to ontology diagnosis." .
+<https://dblp.org/rec/phd/es/Villalon16> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11426> .
+<https://dblp.org/pid/00/11426> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11426> <https://dblp.org/rdf/schema#primaryCreatorName> "María Poveda-Villalón" .
+<https://dblp.org/rec/books/ws/Narens15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/books/ws/Narens15> <https://dblp.org/rdf/schema#title> "Probabilistic Lattices - With Applications to Psychology" .
+<https://dblp.org/rec/books/ws/Narens15> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11451> .
+<https://dblp.org/pid/00/11451> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11451> <https://dblp.org/rdf/schema#primaryCreatorName> "Louis Narens" .
+<https://dblp.org/rec/phd/se/Wiklund15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/se/Wiklund15> <https://dblp.org/rdf/schema#title> "Impediments for Automated Software Test Execution." .
+<https://dblp.org/rec/phd/se/Wiklund15> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11466> .
+<https://dblp.org/pid/00/11466> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11466> <https://dblp.org/rdf/schema#primaryCreatorName> "Kristian Wiklund" .
+<https://dblp.org/rec/phd/jp/Tuan11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/jp/Tuan11> <https://dblp.org/rdf/schema#title> "Retrial queues and their applications in communication systems." .
+<https://dblp.org/rec/phd/jp/Tuan11> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11469> .
+<https://dblp.org/pid/00/11469> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11469> <https://dblp.org/rdf/schema#primaryCreatorName> "Tuan Phung-Duc" .
+<https://dblp.org/rec/books/hal/Soulier23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/books/hal/Soulier23> <https://dblp.org/rdf/schema#title> "Neural Language Models for Faithful Data-to-Text Generation and Proactive Conversational Search." .
+<https://dblp.org/rec/books/hal/Soulier23> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11514> .
+<https://dblp.org/pid/00/11514> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11514> <https://dblp.org/rdf/schema#primaryCreatorName> "Laure Soulier" .
+<https://dblp.org/rec/phd/hal/Soulier14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Book> .
+<https://dblp.org/rec/phd/hal/Soulier14> <https://dblp.org/rdf/schema#title> "Définition et évaluation de modèles de recherche d'information collaborative basés sur les compétences de domaine et les rôles des utilisateurs. (Definition and evaluation of collaborative ranking models based on users' domain expertise and roles)." .
+<https://dblp.org/rec/phd/hal/Soulier14> <https://dblp.org/rdf/schema#authoredBy> <https://dblp.org/pid/00/11514> .
+<https://dblp.org/pid/00/11514> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://dblp.org/rdf/schema#Person> .
+<https://dblp.org/pid/00/11514> <https://dblp.org/rdf/schema#primaryCreatorName> "Laure Soulier" .

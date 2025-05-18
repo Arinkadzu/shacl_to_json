@@ -1,0 +1,119 @@
+{
+  "namespace": [
+    {
+      "prefix": "rdf",
+      "namespace": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    },
+    {
+      "prefix": "xsd",
+      "namespace": "http://www.w3.org/2001/XMLSchema#"
+    },
+    {
+      "prefix": "ns3",
+      "namespace": "http://shaclshapes.org/"
+    },
+    {
+      "prefix": "ns4",
+      "namespace": "https://dblp.org/rdf/schema#"
+    }
+  ],
+  "shapes": [
+    {
+      "id": "http://shaclshapes.org/BookShape",
+      "localName": "BookShape",
+      "prefix": "ns3",
+      "targetClass": "https://dblp.org/rdf/schema#Book",
+      "properties": [
+        {
+          "propertyId": "http://shaclshapes.org/authoredByBookShapeProperty",
+          "localName": "authoredByBookShapeProperty",
+          "prefix": "ns3",
+          "path": "https://dblp.org/rdf/schema#authoredBy",
+          "minCount": "1",
+          "maxCount": null,
+          "nodeKind": null,
+          "datatype": null,
+          "class": "https://dblp.org/rdf/schema#Person",
+          "minCardinality": "1",
+          "maxCardinality": null,
+          "type": null
+        },
+        {
+          "propertyId": "http://shaclshapes.org/instanceTypeBookShapeProperty",
+          "localName": "instanceTypeBookShapeProperty",
+          "prefix": "ns3",
+          "path": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+          "minCount": null,
+          "maxCount": null,
+          "nodeKind": null,
+          "datatype": null,
+          "class": null,
+          "in": [
+            "https://dblp.org/rdf/schema#Book"
+          ],
+          "minCardinality": null,
+          "maxCardinality": null,
+          "type": null
+        },
+        {
+          "propertyId": "http://shaclshapes.org/titleBookShapeProperty",
+          "localName": "titleBookShapeProperty",
+          "prefix": "ns3",
+          "path": "https://dblp.org/rdf/schema#title",
+          "minCount": null,
+          "maxCount": null,
+          "nodeKind": null,
+          "datatype": null,
+          "class": null,
+          "or": [
+            {
+              "datatype": "http://www.w3.org/2001/XMLSchema#string"
+            }
+          ],
+          "minCardinality": null,
+          "maxCardinality": null,
+          "type": null
+        }
+      ]
+    },
+    {
+      "id": "http://shaclshapes.org/PersonShape",
+      "localName": "PersonShape",
+      "prefix": "ns3",
+      "targetClass": "https://dblp.org/rdf/schema#Person",
+      "properties": [
+        {
+          "propertyId": "http://shaclshapes.org/instanceTypePersonShapeProperty",
+          "localName": "instanceTypePersonShapeProperty",
+          "prefix": "ns3",
+          "path": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+          "minCount": null,
+          "maxCount": null,
+          "nodeKind": null,
+          "datatype": null,
+          "class": null,
+          "in": [
+            "https://dblp.org/rdf/schema#Person"
+          ],
+          "minCardinality": null,
+          "maxCardinality": null,
+          "type": null
+        },
+        {
+          "propertyId": "http://shaclshapes.org/primaryCreatorNamePersonShapeProperty",
+          "localName": "primaryCreatorNamePersonShapeProperty",
+          "prefix": "ns3",
+          "path": "https://dblp.org/rdf/schema#primaryCreatorName",
+          "minCount": "1",
+          "maxCount": null,
+          "nodeKind": null,
+          "datatype": "http://www.w3.org/2001/XMLSchema#string",
+          "class": null,
+          "minCardinality": "1",
+          "maxCardinality": null,
+          "type": "http://www.w3.org/2001/XMLSchema#string"
+        }
+      ]
+    }
+  ]
+}
