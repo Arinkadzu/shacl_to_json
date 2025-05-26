@@ -1,6 +1,6 @@
 {
-  "shaclFilePath": "E:/LU/Bachelor/SHACLtoJSON/Inputs/DBLP_1M_SHACL.ttl",
-  "outputFilePath": "E:/LU/Bachelor/SHACLtoJSON/Results/DBLP_1M_SHACL.json",
+  "shaclFilePath": "../SHACLtoJSON/Inputs/<SHACL.ttl>",
+  "outputFilePath": "../SHACLtoJSON/Results/<SHACL.json>",
   "sparqlEndpoint": "http://85.254.199.72:8890/sparql",
-  "namespacesFilePath": "E:/LU/Bachelor/SHACLtoJSON/namespaces.json"
+  "namespacesFilePath": "../SHACLtoJSON/namespaces.json"
 }
