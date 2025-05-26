@@ -1,0 +1,94 @@
+{
+  "SchemaName": "dblp_books_QSE_FULL_SHACL",
+  "Classes": [
+    {
+      "localName": "http://shaclshapes.org/BookShape",
+      "fullName": "http://shaclshapes.org/BookShape",
+      "SuperClasses": [],
+      "instanceCount": 0
+    },
+    {
+      "localName": "http://shaclshapes.org/PersonShape",
+      "fullName": "http://shaclshapes.org/PersonShape",
+      "SuperClasses": [],
+      "instanceCount": 0
+    }
+  ],
+  "Attributes": [
+    {
+      "localName": "https://dblp.org/rdf/schema#primaryCreatorName",
+      "fullName": "https://dblp.org/rdf/schema#primaryCreatorName",
+      "minCardinality": "1",
+      "maxCardinality": "1",
+      "SourceClasses": [
+        "http://shaclshapes.org/PersonShape"
+      ],
+      "type": "http://www.w3.org/2001/XMLSchema#string"
+    }
+  ],
+  "Associations": [
+    {
+      "localName": "https://dblp.org/rdf/schema#authoredBy",
+      "fullName": "https://dblp.org/rdf/schema#authoredBy",
+      "minCardinality": "1",
+      "maxCardinality": "-1",
+      "SourceClasses": [
+        "http://shaclshapes.org/BookShape"
+      ],
+      "ClassPairs": [
+        {
+          "SourceClass": "http://shaclshapes.org/BookShape",
+          "TargetClass": "https://dblp.org/rdf/schema#Person"
+        },
+        {
+          "SourceClass": "http://shaclshapes.org/BookShape",
+          "TargetClass": "https://dblp.org/rdf/schema#Person"
+        }
+      ]
+    }
+  ],
+  "Prefixes": [
+    {
+      "prefix": "ns1",
+      "namespace": "http://shaclshapes.org/"
+    },
+    {
+      "prefix": "ns2",
+      "namespace": "https://dblp.org/rdf/schema#"
+    },
+    {
+      "prefix": "xsd",
+      "namespace": "http://www.w3.org/2001/XMLSchema#"
+    }
+  ],
+  "Parameters": [
+    {
+      "name": "endpointUrl",
+      "value": "http://85.254.199.72:8890/sparql"
+    },
+    {
+      "name": "graphName",
+      "value": "dblp_books_QSE_FULL_SHACL"
+    },
+    {
+      "name": "calculateSubClassRelations",
+      "value": "true"
+    },
+    {
+      "name": "calculateDomainAndRangePairs",
+      "value": "true"
+    },
+    {
+      "name": "calculateDataTypes",
+      "value": "true"
+    },
+    {
+      "name": "calculateCardinalities",
+      "value": "propertyLevelAndClassContext"
+    },
+    {
+      "name": "minimalAnalyzedClassSize",
+      "value": "0"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<http://shaclshapes.org/IdentifierShape> rdf:type <http://www.w3.org/ns/shacl#NodeShape> ;
+  <http://shaclshapes.org/support> "2"^^xsd:int ;
+  <http://www.w3.org/ns/shacl#property> <http://shaclshapes.org/hasLiteralValueIdentifierShapeProperty> ;
+  <http://www.w3.org/ns/shacl#property> <http://shaclshapes.org/instanceTypeIdentifierShapeProperty> ;
+  <http://www.w3.org/ns/shacl#property> <http://shaclshapes.org/usesIdentifierSchemeIdentifierShapeProperty> ;
+  <http://www.w3.org/ns/shacl#targetClass> <http://purl.org/spar/datacite/Identifier> .
+
+<http://shaclshapes.org/PublicationShape> rdf:type <http://www.w3.org/ns/shacl#NodeShape> ;
+  <http://shaclshapes.org/support> "1"^^xsd:int ;
+  <http://www.w3.org/ns/shacl#property> <http://shaclshapes.org/bibtexTypePublicationShapeProperty> ;
+  <http://www.w3.org/ns/shacl#property> <http://shaclshapes.org/documentPagePublicationShapeProperty> ;
+  <http://www.w3.org/ns/shacl#property> <http://shaclshapes.org/doiPublicationShapeProperty> ;
+  <http://www.w3.org/ns/shacl#property> <http://shaclshapes.org/hasIdentifierPublicationShapeProperty> ;
+  <http://www.w3.org/ns/shacl#property> <http://shaclshapes.org/instanceTypePublicationShapeProperty> ;
+  <http://www.w3.org/ns/shacl#property> <http://shaclshapes.org/labelPublicationShapeProperty> ;
+  <http://www.w3.org/ns/shacl#property> <http://shaclshapes.org/listedOnTocPagePublicationShapeProperty> ;
+  <http://www.w3.org/ns/shacl#property> <http://shaclshapes.org/numberOfCreatorsPublicationShapeProperty> ;
+  <http://www.w3.org/ns/shacl#property> <http://shaclshapes.org/paginationPublicationShapeProperty> ;
+  <http://www.w3.org/ns/shacl#property> <http://shaclshapes.org/primaryDocumentPagePublicationShapeProperty> ;
+  <http://www.w3.org/ns/shacl#property> <http://shaclshapes.org/publishedInBookPublicationShapeProperty> ;
+  <http://www.w3.org/ns/shacl#property> <http://shaclshapes.org/publishedInPublicationShapeProperty> ;
+  <http://www.w3.org/ns/shacl#property> <http://shaclshapes.org/sameAsPublicationShapeProperty> ;
+  <http://www.w3.org/ns/shacl#property> <http://shaclshapes.org/titlePublicationShapeProperty> ;
+  <http://www.w3.org/ns/shacl#property> <http://shaclshapes.org/yearOfPublicationPublicationShapeProperty> ;
+  <http://www.w3.org/ns/shacl#targetClass> <https://dblp.org/rdf/schema#Publication> .
+
+<http://shaclshapes.org/ResourceIdentifierShape> rdf:type <http://www.w3.org/ns/shacl#NodeShape> ;
+  <http://shaclshapes.org/support> "2"^^xsd:int ;
+  <http://www.w3.org/ns/shacl#property> <http://shaclshapes.org/hasLiteralValueResourceIdentifierShapeProperty> ;
+  <http://www.w3.org/ns/shacl#property> <http://shaclshapes.org/instanceTypeResourceIdentifierShapeProperty> ;
+  <http://www.w3.org/ns/shacl#property> <http://shaclshapes.org/usesIdentifierSchemeResourceIdentifierShapeProperty> ;
+  <http://www.w3.org/ns/shacl#targetClass> <http://purl.org/spar/datacite/ResourceIdentifier> .
+
+<http://shaclshapes.org/bibtexTypePublicationShapeProperty> rdf:type <http://www.w3.org/ns/shacl#PropertyShape> ;
+  <http://shaclshapes.org/confidence> 1E0 ;
+  <http://shaclshapes.org/support> "1"^^xsd:int ;
+  <http://www.w3.org/ns/shacl#NodeKind> <http://www.w3.org/ns/shacl#IRI> ;
+  <http://www.w3.org/ns/shacl#minCount> 1 ;
+  <http://www.w3.org/ns/shacl#path> <https://dblp.org/rdf/schema#bibtexType> .
+
+<http://shaclshapes.org/documentPagePublicationShapeProperty> rdf:type <http://www.w3.org/ns/shacl#PropertyShape> ;
+  <http://shaclshapes.org/confidence> 1E0 ;
+  <http://shaclshapes.org/support> "1"^^xsd:int ;
+  <http://www.w3.org/ns/shacl#NodeKind> <http://www.w3.org/ns/shacl#IRI> ;
+  <http://www.w3.org/ns/shacl#minCount> 1 ;
+  <http://www.w3.org/ns/shacl#path> <https://dblp.org/rdf/schema#documentPage> .
+
+<http://shaclshapes.org/doiPublicationShapeProperty> rdf:type <http://www.w3.org/ns/shacl#PropertyShape> ;
+  <http://shaclshapes.org/confidence> 1E0 ;
+  <http://shaclshapes.org/support> "1"^^xsd:int ;
+  <http://www.w3.org/ns/shacl#NodeKind> <http://www.w3.org/ns/shacl#IRI> ;
+  <http://www.w3.org/ns/shacl#minCount> 1 ;
+  <http://www.w3.org/ns/shacl#path> <https://dblp.org/rdf/schema#doi> .
+
+<http://shaclshapes.org/hasIdentifierPublicationShapeProperty> rdf:type <http://www.w3.org/ns/shacl#PropertyShape> ;
+  <http://www.w3.org/ns/shacl#minCount> 1 ;
+  <http://www.w3.org/ns/shacl#node> <http://shaclshapes.org/IdentifierShape> ;
+  <http://www.w3.org/ns/shacl#or> ( [
+    <http://shaclshapes.org/confidence> 1E0 ;
+    <http://shaclshapes.org/support> "1"^^xsd:int ;
+    <http://www.w3.org/ns/shacl#NodeKind> <http://www.w3.org/ns/shacl#IRI> ;
+    <http://www.w3.org/ns/shacl#class> <http://purl.org/spar/datacite/ResourceIdentifier> ;
+  ] [
+    <http://shaclshapes.org/confidence> 1E0 ;
+    <http://shaclshapes.org/support> "1"^^xsd:int ;
+    <http://www.w3.org/ns/shacl#NodeKind> <http://www.w3.org/ns/shacl#IRI> ;
+    <http://www.w3.org/ns/shacl#class> <http://purl.org/spar/datacite/Identifier> ;
+  ] ) ;
+  <http://www.w3.org/ns/shacl#or> ( [
+    <http://shaclshapes.org/confidence> 1E0 ;
+    <http://shaclshapes.org/support> "1"^^xsd:int ;
+    <http://www.w3.org/ns/shacl#NodeKind> <http://www.w3.org/ns/shacl#IRI> ;
+    <http://www.w3.org/ns/shacl#class> <http://purl.org/spar/datacite/ResourceIdentifier> ;
+  ] [
+    <http://shaclshapes.org/confidence> 1E0 ;
+    <http://shaclshapes.org/support> "1"^^xsd:int ;
+    <http://www.w3.org/ns/shacl#NodeKind> <http://www.w3.org/ns/shacl#IRI> ;
+    <http://www.w3.org/ns/shacl#class> <http://purl.org/spar/datacite/Identifier> ;
+  ] ) ;
+  <http://www.w3.org/ns/shacl#or> ( [
+    <http://shaclshapes.org/confidence> 1E0 ;
+    <http://shaclshapes.org/support> "1"^^xsd:int ;
+    <http://www.w3.org/ns/shacl#NodeKind> <http://www.w3.org/ns/shacl#IRI> ;
+    <http://www.w3.org/ns/shacl#class> <http://purl.org/spar/datacite/ResourceIdentifier> ;
+  ] [
+    <http://shaclshapes.org/confidence> 1E0 ;
+    <http://shaclshapes.org/support> "1"^^xsd:int ;
+    <http://www.w3.org/ns/shacl#NodeKind> <http://www.w3.org/ns/shacl#IRI> ;
+    <http://www.w3.org/ns/shacl#class> <http://purl.org/spar/datacite/Identifier> ;
+  ] ) ;
+  <http://www.w3.org/ns/shacl#or> ( [
+    <http://shaclshapes.org/confidence> 1E0 ;
+    <http://shaclshapes.org/support> "1"^^xsd:int ;
+    <http://www.w3.org/ns/shacl#NodeKind> <http://www.w3.org/ns/shacl#IRI> ;
+    <http://www.w3.org/ns/shacl#class> <http://purl.org/spar/datacite/ResourceIdentifier> ;
+  ] [
+    <http://shaclshapes.org/confidence> 1E0 ;
+    <http://shaclshapes.org/support> "1"^^xsd:int ;
+    <http://www.w3.org/ns/shacl#NodeKind> <http://www.w3.org/ns/shacl#IRI> ;
+    <http://www.w3.org/ns/shacl#class> <http://purl.org/spar/datacite/Identifier> ;
+  ] ) ;
+  <http://www.w3.org/ns/shacl#or> ( [
+    <http://shaclshapes.org/confidence> 1E0 ;
+    <http://shaclshapes.org/support> "1"^^xsd:int ;
+    <http://www.w3.org/ns/shacl#NodeKind> <http://www.w3.org/ns/shacl#IRI> ;
+    <http://www.w3.org/ns/shacl#class> <http://purl.org/spar/datacite/ResourceIdentifier> ;
+  ] [
+    <http://shaclshapes.org/confidence> 1E0 ;
+    <http://shaclshapes.org/support> "1"^^xsd:int ;
+    <http://www.w3.org/ns/shacl#NodeKind> <http://www.w3.org/ns/shacl#IRI> ;
+    <http://www.w3.org/ns/shacl#class> <http://purl.org/spar/datacite/Identifier> ;
+  ] ) ;
+  <http://www.w3.org/ns/shacl#or> ( [
+    <http://shaclshapes.org/confidence> 1E0 ;
+    <http://shaclshapes.org/support> "1"^^xsd:int ;
+    <http://www.w3.org/ns/shacl#NodeKind> <http://www.w3.org/ns/shacl#IRI> ;
+    <http://www.w3.org/ns/shacl#class> <http://purl.org/spar/datacite/ResourceIdentifier> ;
+  ] [
+    <http://shaclshapes.org/confidence> 1E0 ;
+    <http://shaclshapes.org/support> "1"^^xsd:int ;
+    <http://www.w3.org/ns/shacl#NodeKind> <http://www.w3.org/ns/shacl#IRI> ;
+    <http://www.w3.org/ns/shacl#class> <http://purl.org/spar/datacite/Identifier> ;
+  ] ) ;
+  <http://www.w3.org/ns/shacl#path> <http://purl.org/spar/datacite/hasIdentifier> .
+
+<http://shaclshapes.org/hasLiteralValueIdentifierShapeProperty> rdf:type <http://www.w3.org/ns/shacl#PropertyShape> ;
+  <http://shaclshapes.org/confidence> 1E0 ;
+  <http://shaclshapes.org/support> "2"^^xsd:int ;
+  <http://www.w3.org/ns/shacl#NodeKind> <http://www.w3.org/ns/shacl#Literal> ;
+  <http://www.w3.org/ns/shacl#datatype> xsd:string ;
+  <http://www.w3.org/ns/shacl#minCount> 1 ;
+  <http://www.w3.org/ns/shacl#path> <http://purl.org/spar/literal/hasLiteralValue> .
+
+<http://shaclshapes.org/hasLiteralValueResourceIdentifierShapeProperty> rdf:type <http://www.w3.org/ns/shacl#PropertyShape> ;
+  <http://shaclshapes.org/confidence> 1E0 ;
+  <http://shaclshapes.org/support> "2"^^xsd:int ;
+  <http://www.w3.org/ns/shacl#NodeKind> <http://www.w3.org/ns/shacl#Literal> ;
+  <http://www.w3.org/ns/shacl#datatype> xsd:string ;
+  <http://www.w3.org/ns/shacl#minCount> 1 ;
+  <http://www.w3.org/ns/shacl#path> <http://purl.org/spar/literal/hasLiteralValue> .
+
+<http://shaclshapes.org/instanceTypeIdentifierShapeProperty> rdf:type <http://www.w3.org/ns/shacl#PropertyShape> ;
+  <http://shaclshapes.org/confidence> 1E0 ;
+  <http://shaclshapes.org/support> "2"^^xsd:int ;
+  <http://www.w3.org/ns/shacl#in> ( <http://purl.org/spar/datacite/Identifier> ) ;
+  <http://www.w3.org/ns/shacl#in> ( <http://purl.org/spar/datacite/Identifier> ) ;
+  <http://www.w3.org/ns/shacl#in> ( <http://purl.org/spar/datacite/Identifier> ) ;
+  <http://www.w3.org/ns/shacl#in> ( <http://purl.org/spar/datacite/Identifier> ) ;
+  <http://www.w3.org/ns/shacl#in> ( <http://purl.org/spar/datacite/Identifier> ) ;
+  <http://www.w3.org/ns/shacl#in> ( <http://purl.org/spar/datacite/Identifier> ) ;
+  <http://www.w3.org/ns/shacl#path> rdf:type .
+
+<http://shaclshapes.org/instanceTypePublicationShapeProperty> rdf:type <http://www.w3.org/ns/shacl#PropertyShape> ;
+  <http://shaclshapes.org/confidence> 1E0 ;
+  <http://shaclshapes.org/support> "1"^^xsd:int ;
+  <http://www.w3.org/ns/shacl#in> ( <https://dblp.org/rdf/schema#Publication> ) ;
+  <http://www.w3.org/ns/shacl#in> ( <https://dblp.org/rdf/schema#Publication> ) ;
+  <http://www.w3.org/ns/shacl#in> ( <https://dblp.org/rdf/schema#Publication> ) ;
+  <http://www.w3.org/ns/shacl#in> ( <https://dblp.org/rdf/schema#Publication> ) ;
+  <http://www.w3.org/ns/shacl#in> ( <https://dblp.org/rdf/schema#Publication> ) ;
+  <http://www.w3.org/ns/shacl#in> ( <https://dblp.org/rdf/schema#Publication> ) ;
+  <http://www.w3.org/ns/shacl#path> rdf:type .
+
+<http://shaclshapes.org/instanceTypeResourceIdentifierShapeProperty> rdf:type <http://www.w3.org/ns/shacl#PropertyShape> ;
+  <http://shaclshapes.org/confidence> 1E0 ;
+  <http://shaclshapes.org/support> "2"^^xsd:int ;
+  <http://www.w3.org/ns/shacl#in> ( <http://purl.org/spar/datacite/ResourceIdentifier> ) ;
+  <http://www.w3.org/ns/shacl#in> ( <http://purl.org/spar/datacite/ResourceIdentifier> ) ;
+  <http://www.w3.org/ns/shacl#in> ( <http://purl.org/spar/datacite/ResourceIdentifier> ) ;
+  <http://www.w3.org/ns/shacl#in> ( <http://purl.org/spar/datacite/ResourceIdentifier> ) ;
+  <http://www.w3.org/ns/shacl#in> ( <http://purl.org/spar/datacite/ResourceIdentifier> ) ;
+  <http://www.w3.org/ns/shacl#in> ( <http://purl.org/spar/datacite/ResourceIdentifier> ) ;
+  <http://www.w3.org/ns/shacl#path> rdf:type .
+
+<http://shaclshapes.org/labelPublicationShapeProperty> rdf:type <http://www.w3.org/ns/shacl#PropertyShape> ;
+  <http://shaclshapes.org/confidence> 1E0 ;
+  <http://shaclshapes.org/support> "1"^^xsd:int ;
+  <http://www.w3.org/ns/shacl#NodeKind> <http://www.w3.org/ns/shacl#Literal> ;
+  <http://www.w3.org/ns/shacl#datatype> xsd:string ;
+  <http://www.w3.org/ns/shacl#minCount> 1 ;
+  <http://www.w3.org/ns/shacl#path> rdfs:label .
+
+<http://shaclshapes.org/listedOnTocPagePublicationShapeProperty> rdf:type <http://www.w3.org/ns/shacl#PropertyShape> ;
+  <http://shaclshapes.org/confidence> 1E0 ;
+  <http://shaclshapes.org/support> "1"^^xsd:int ;
+  <http://www.w3.org/ns/shacl#NodeKind> <http://www.w3.org/ns/shacl#IRI> ;
+  <http://www.w3.org/ns/shacl#minCount> 1 ;
+  <http://www.w3.org/ns/shacl#path> <https://dblp.org/rdf/schema#listedOnTocPage> .
+
+<http://shaclshapes.org/numberOfCreatorsPublicationShapeProperty> rdf:type <http://www.w3.org/ns/shacl#PropertyShape> ;
+  <http://shaclshapes.org/confidence> 1E0 ;
+  <http://shaclshapes.org/support> "1"^^xsd:int ;
+  <http://www.w3.org/ns/shacl#NodeKind> <http://www.w3.org/ns/shacl#Literal> ;
+  <http://www.w3.org/ns/shacl#datatype> xsd:integer ;
+  <http://www.w3.org/ns/shacl#minCount> 1 ;
+  <http://www.w3.org/ns/shacl#path> <https://dblp.org/rdf/schema#numberOfCreators> .
+
+<http://shaclshapes.org/paginationPublicationShapeProperty> rdf:type <http://www.w3.org/ns/shacl#PropertyShape> ;
+  <http://shaclshapes.org/confidence> 1E0 ;
+  <http://shaclshapes.org/support> "1"^^xsd:int ;
+  <http://www.w3.org/ns/shacl#NodeKind> <http://www.w3.org/ns/shacl#Literal> ;
+  <http://www.w3.org/ns/shacl#datatype> xsd:string ;
+  <http://www.w3.org/ns/shacl#minCount> 1 ;
+  <http://www.w3.org/ns/shacl#path> <https://dblp.org/rdf/schema#pagination> .
+
+<http://shaclshapes.org/primaryDocumentPagePublicationShapeProperty> rdf:type <http://www.w3.org/ns/shacl#PropertyShape> ;
+  <http://shaclshapes.org/confidence> 1E0 ;
+  <http://shaclshapes.org/support> "1"^^xsd:int ;
+  <http://www.w3.org/ns/shacl#NodeKind> <http://www.w3.org/ns/shacl#IRI> ;
+  <http://www.w3.org/ns/shacl#minCount> 1 ;
+  <http://www.w3.org/ns/shacl#path> <https://dblp.org/rdf/schema#primaryDocumentPage> .
+
+<http://shaclshapes.org/publishedInBookPublicationShapeProperty> rdf:type <http://www.w3.org/ns/shacl#PropertyShape> ;
+  <http://shaclshapes.org/confidence> 1E0 ;
+  <http://shaclshapes.org/support> "1"^^xsd:int ;
+  <http://www.w3.org/ns/shacl#NodeKind> <http://www.w3.org/ns/shacl#Literal> ;
+  <http://www.w3.org/ns/shacl#datatype> xsd:string ;
+  <http://www.w3.org/ns/shacl#minCount> 1 ;
+  <http://www.w3.org/ns/shacl#path> <https://dblp.org/rdf/schema#publishedInBook> .
+
+<http://shaclshapes.org/publishedInPublicationShapeProperty> rdf:type <http://www.w3.org/ns/shacl#PropertyShape> ;
+  <http://shaclshapes.org/confidence> 1E0 ;
+  <http://shaclshapes.org/support> "1"^^xsd:int ;
+  <http://www.w3.org/ns/shacl#NodeKind> <http://www.w3.org/ns/shacl#Literal> ;
+  <http://www.w3.org/ns/shacl#datatype> xsd:string ;
+  <http://www.w3.org/ns/shacl#minCount> 1 ;
+  <http://www.w3.org/ns/shacl#path> <https://dblp.org/rdf/schema#publishedIn> .
+
+<http://shaclshapes.org/sameAsPublicationShapeProperty> rdf:type <http://www.w3.org/ns/shacl#PropertyShape> ;
+  <http://shaclshapes.org/confidence> 1E0 ;
+  <http://shaclshapes.org/support> "1"^^xsd:int ;
+  <http://www.w3.org/ns/shacl#NodeKind> <http://www.w3.org/ns/shacl#IRI> ;
+  <http://www.w3.org/ns/shacl#minCount> 1 ;
+  <http://www.w3.org/ns/shacl#path> owl:sameAs .
+
+<http://shaclshapes.org/titlePublicationShapeProperty> rdf:type <http://www.w3.org/ns/shacl#PropertyShape> ;
+  <http://shaclshapes.org/confidence> 1E0 ;
+  <http://shaclshapes.org/support> "1"^^xsd:int ;
+  <http://www.w3.org/ns/shacl#NodeKind> <http://www.w3.org/ns/shacl#Literal> ;
+  <http://www.w3.org/ns/shacl#datatype> xsd:string ;
+  <http://www.w3.org/ns/shacl#minCount> 1 ;
+  <http://www.w3.org/ns/shacl#path> <https://dblp.org/rdf/schema#title> .
+
+<http://shaclshapes.org/usesIdentifierSchemeIdentifierShapeProperty> rdf:type <http://www.w3.org/ns/shacl#PropertyShape> ;
+  <http://shaclshapes.org/confidence> 1E0 ;
+  <http://shaclshapes.org/support> "2"^^xsd:int ;
+  <http://www.w3.org/ns/shacl#NodeKind> <http://www.w3.org/ns/shacl#IRI> ;
+  <http://www.w3.org/ns/shacl#minCount> 1 ;
+  <http://www.w3.org/ns/shacl#path> <http://purl.org/spar/datacite/usesIdentifierScheme> .
+
+<http://shaclshapes.org/usesIdentifierSchemeResourceIdentifierShapeProperty> rdf:type <http://www.w3.org/ns/shacl#PropertyShape> ;
+  <http://shaclshapes.org/confidence> 1E0 ;
+  <http://shaclshapes.org/support> "2"^^xsd:int ;
+  <http://www.w3.org/ns/shacl#NodeKind> <http://www.w3.org/ns/shacl#IRI> ;
+  <http://www.w3.org/ns/shacl#minCount> 1 ;
+  <http://www.w3.org/ns/shacl#path> <http://purl.org/spar/datacite/usesIdentifierScheme> .
+
+<http://shaclshapes.org/yearOfPublicationPublicationShapeProperty> rdf:type <http://www.w3.org/ns/shacl#PropertyShape> ;
+  <http://shaclshapes.org/confidence> 1E0 ;
+  <http://shaclshapes.org/support> "1"^^xsd:int ;
+  <http://www.w3.org/ns/shacl#NodeKind> <http://www.w3.org/ns/shacl#Literal> ;
+  <http://www.w3.org/ns/shacl#datatype> xsd:gYear ;
+  <http://www.w3.org/ns/shacl#minCount> 1 ;
+  <http://www.w3.org/ns/shacl#path> <https://dblp.org/rdf/schema#yearOfPublication> .
+
+

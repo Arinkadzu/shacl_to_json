@@ -1,0 +1,189 @@
+{
+  "SchemaName": "DBLP_1M_SHACL",
+  "Classes": [
+    {
+      "localName": "http://shaclshapes.org/IdentifierShape",
+      "fullName": "http://shaclshapes.org/IdentifierShape",
+      "SuperClasses": [],
+      "instanceCount": 0
+    },
+    {
+      "localName": "http://shaclshapes.org/PublicationShape",
+      "fullName": "http://shaclshapes.org/PublicationShape",
+      "SuperClasses": [],
+      "instanceCount": 0
+    },
+    {
+      "localName": "http://shaclshapes.org/ResourceIdentifierShape",
+      "fullName": "http://shaclshapes.org/ResourceIdentifierShape",
+      "SuperClasses": [],
+      "instanceCount": 0
+    }
+  ],
+  "Attributes": [
+    {
+      "localName": "http://purl.org/spar/literal/hasLiteralValue",
+      "fullName": "http://purl.org/spar/literal/hasLiteralValue",
+      "minCardinality": "1",
+      "maxCardinality": "1",
+      "SourceClasses": [
+        "http://shaclshapes.org/IdentifierShape"
+      ],
+      "type": "http://www.w3.org/2001/XMLSchema#string"
+    },
+    {
+      "localName": "label",
+      "prefix": "rdfs",
+      "fullName": "http://www.w3.org/2000/01/rdf-schema#label",
+      "minCardinality": "1",
+      "maxCardinality": "1",
+      "SourceClasses": [
+        "http://shaclshapes.org/PublicationShape"
+      ],
+      "type": "http://www.w3.org/2001/XMLSchema#string"
+    },
+    {
+      "localName": "https://dblp.org/rdf/schema#numberOfCreators",
+      "fullName": "https://dblp.org/rdf/schema#numberOfCreators",
+      "minCardinality": "1",
+      "maxCardinality": "1",
+      "SourceClasses": [
+        "http://shaclshapes.org/PublicationShape"
+      ],
+      "type": "http://www.w3.org/2001/XMLSchema#integer"
+    },
+    {
+      "localName": "https://dblp.org/rdf/schema#pagination",
+      "fullName": "https://dblp.org/rdf/schema#pagination",
+      "minCardinality": "1",
+      "maxCardinality": "1",
+      "SourceClasses": [
+        "http://shaclshapes.org/PublicationShape"
+      ],
+      "type": "http://www.w3.org/2001/XMLSchema#string"
+    },
+    {
+      "localName": "https://dblp.org/rdf/schema#publishedInBook",
+      "fullName": "https://dblp.org/rdf/schema#publishedInBook",
+      "minCardinality": "1",
+      "maxCardinality": "1",
+      "SourceClasses": [
+        "http://shaclshapes.org/PublicationShape"
+      ],
+      "type": "http://www.w3.org/2001/XMLSchema#string"
+    },
+    {
+      "localName": "https://dblp.org/rdf/schema#publishedIn",
+      "fullName": "https://dblp.org/rdf/schema#publishedIn",
+      "minCardinality": "1",
+      "maxCardinality": "1",
+      "SourceClasses": [
+        "http://shaclshapes.org/PublicationShape"
+      ],
+      "type": "http://www.w3.org/2001/XMLSchema#string"
+    },
+    {
+      "localName": "https://dblp.org/rdf/schema#title",
+      "fullName": "https://dblp.org/rdf/schema#title",
+      "minCardinality": "1",
+      "maxCardinality": "1",
+      "SourceClasses": [
+        "http://shaclshapes.org/PublicationShape"
+      ],
+      "type": "http://www.w3.org/2001/XMLSchema#string"
+    },
+    {
+      "localName": "https://dblp.org/rdf/schema#yearOfPublication",
+      "fullName": "https://dblp.org/rdf/schema#yearOfPublication",
+      "minCardinality": "1",
+      "maxCardinality": "1",
+      "SourceClasses": [
+        "http://shaclshapes.org/PublicationShape"
+      ],
+      "type": "http://www.w3.org/2001/XMLSchema#gYear"
+    },
+    {
+      "localName": "http://purl.org/spar/literal/hasLiteralValue",
+      "fullName": "http://purl.org/spar/literal/hasLiteralValue",
+      "minCardinality": "1",
+      "maxCardinality": "1",
+      "SourceClasses": [
+        "http://shaclshapes.org/ResourceIdentifierShape"
+      ],
+      "type": "http://www.w3.org/2001/XMLSchema#string"
+    }
+  ],
+  "Associations": [
+    {
+      "localName": "http://purl.org/spar/datacite/hasIdentifier",
+      "fullName": "http://purl.org/spar/datacite/hasIdentifier",
+      "minCardinality": "1",
+      "maxCardinality": "-1",
+      "SourceClasses": [
+        "http://shaclshapes.org/PublicationShape"
+      ],
+      "ClassPairs": [
+        {
+          "SourceClass": "http://shaclshapes.org/PublicationShape",
+          "TargetClass": "http://purl.org/spar/datacite/Identifier"
+        }
+      ]
+    }
+  ],
+  "Prefixes": [
+    {
+      "prefix": "ns1",
+      "namespace": "http://shaclshapes.org/"
+    },
+    {
+      "prefix": "ns2",
+      "namespace": "http://purl.org/spar/literal/"
+    },
+    {
+      "prefix": "xsd",
+      "namespace": "http://www.w3.org/2001/XMLSchema#"
+    },
+    {
+      "prefix": "rdfs",
+      "namespace": "http://www.w3.org/2000/01/rdf-schema#"
+    },
+    {
+      "prefix": "ns3",
+      "namespace": "https://dblp.org/rdf/schema#"
+    },
+    {
+      "prefix": "ns4",
+      "namespace": "http://purl.org/spar/datacite/"
+    }
+  ],
+  "Parameters": [
+    {
+      "name": "endpointUrl",
+      "value": "http://85.254.199.72:8890/sparql"
+    },
+    {
+      "name": "graphName",
+      "value": "DBLP_1M_SHACL"
+    },
+    {
+      "name": "calculateSubClassRelations",
+      "value": "true"
+    },
+    {
+      "name": "calculateDomainAndRangePairs",
+      "value": "true"
+    },
+    {
+      "name": "calculateDataTypes",
+      "value": "true"
+    },
+    {
+      "name": "calculateCardinalities",
+      "value": "propertyLevelAndClassContext"
+    },
+    {
+      "name": "minimalAnalyzedClassSize",
+      "value": "0"
+    }
+  ]
+}
