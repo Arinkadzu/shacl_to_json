@@ -17,7 +17,9 @@ cd shacl_to_json
 ```
 
 - Install dependencies:
-```npm install```
+```
+npm install
+```
 
 # Usage
 
